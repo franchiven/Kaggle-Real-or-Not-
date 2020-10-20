@@ -1,10 +1,11 @@
 # Kaggle-Real-or-Not-
 Real or Not? NLP with Disaster Tweets.
 
----Currently top 25% of entries---
+--- Currently top 25% of entries (279/1106) --- 
 
-After my first try implementing a Roberta model, I scored in the top 25% of all entries, 
+--- Number of attempts: 1 --- 
 
-
+Data cleaning, spell correction etc.
+Roberta Base model using a version of the Hugging Face Library.
 
 https://www.kaggle.com/c/nlp-getting-started/data
