@@ -5,7 +5,15 @@ Real or Not? NLP with Disaster Tweets.
 
 --- Number of attempts: 1 --- 
 
-Data cleaning, spell correction etc.
-Roberta Base model using a version of the Hugging Face Library.
-
 https://www.kaggle.com/c/nlp-getting-started/data
+
+## Data Pre-processing
+- Replace contractions e.g. they're --> they are
+- Clear blank lines.
+- Strip words e.g. that's --> thats
+- Lower text.
+- Remove numbers.
+- Correct spelling mistakes.
+
+## Modelling
+- Roberta Base Hugging Face classificaiton
